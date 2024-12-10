@@ -2,4 +2,4 @@
 This study presents a novel Convolutional Neural Network (CNN)-based approach, integrated with a block flow rule mechanism, to detect and mitigate DDoS attacks in SDN.
 
 
-# The word is currently undergoing review. Files will be available soon.
+# This work is currently undergoing review. Files will be available soon.
